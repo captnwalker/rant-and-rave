@@ -2,7 +2,7 @@
 
 ## Purpose of this App
 
->Scream into the abyss. *"Rant and Rave"* is an exercise in building a MVC framework from scratch.
+>Scream into the digital abyss. *"Rant and Rave"* is an exercise in building a MVC framework from scratch.
 
 ### Table of Contents
 
