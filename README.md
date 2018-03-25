@@ -21,6 +21,7 @@ Follow this link to the [Rant and Rave](https://rant-and-rave.herokuapp.com/) on
 ### Tech Stack
 
 * PHP
+* PDO
 * MVC
 * ORM
 * HTML5
