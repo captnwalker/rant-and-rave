@@ -1,18 +1,18 @@
 # **IN DEVELOPMENT** rant-and-rave **IN DEVELOPMENT** 
 
-## Table of Contents
-
 ## Purpose of this App
 
->*"Rant and Rave"* is an exercise in building a MVC framework from scratch.
+>Scream into the abyss. *"Rant and Rave"* is an exercise in building a MVC framework from scratch.
+
+### Table of Contents
 
 ### How to Use
 
 >You'll figure it out
 
-### Deployment
+### Deployment **TO BE DEPLOYED**
 
-Follow this link to the [Rant and Rave](https://rant-and-rave.herokuapp.com/) on the Web **TO BE Deployed**
+Follow this link to the [Rant and Rave](https://rant-and-rave.herokuapp.com/) on the Web 
 
 ### Screenshot of this Project
 
@@ -26,6 +26,8 @@ Follow this link to the [Rant and Rave](https://rant-and-rave.herokuapp.com/) on
 * HTML5
 * CSS3
 * BootStrap 4.0
+
+### MVC File Structure
 
 #### License
 
