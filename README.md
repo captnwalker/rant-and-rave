@@ -27,6 +27,7 @@ Follow this link to the [Rant and Rave](https://rant-and-rave.herokuapp.com/) on
 * HTML5
 * CSS3
 * BootStrap 4.0
+* Google Fonts
 
 ### MVC File Structure
 
