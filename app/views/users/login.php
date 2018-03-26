@@ -4,7 +4,7 @@
         <div class="card card-body bg-light mt-5">
             <h2>Create An Account</h2>
             <p>Please fill in your credentials to log in</p>
-            <form action="</php echo URLROOT; ?>/users/login" method="post">
+            <form action="<?php echo URLROOT; ?>/users/login" method="post">
 
                 <div class="form-group">
                     <label for="email">Email: <sup>*</sup></label>
