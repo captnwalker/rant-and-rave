@@ -16,7 +16,7 @@ Follow this link to the [Rant and Rave](https://rant-and-rave.herokuapp.com/) on
 
 ### Screenshot of this Project
 
-![Rant and Rave](https://raw.github.com/captnwalker/rant-and-rave/master/public/img/coming-soon.jpg "Rant and Rave")
+![Rant and Rave](https://raw.github.com/captnwalker/rant-and-rave/master/public/img/coming-soon1.jpg "Rant and Rave")
 
 ### Tech Stack
 
