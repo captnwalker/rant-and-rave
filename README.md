@@ -1,4 +1,4 @@
-# **IN PRODUCTION** Rant and Rave 
+# **IN PRODUCTION** Rant and Rave
 
 ## Purpose of this App
 
@@ -6,17 +6,33 @@
 
 ### Table of Contents
 
+<!-- TOC -->
+
+- [**IN PRODUCTION** Rant and Rave](#in-production-rant-and-rave)
+    - [Purpose of this App](#purpose-of-this-app)
+        - [Table of Contents](#table-of-contents)
+        - [How to Use](#how-to-use)
+        - [Deployment **TO BE DEPLOYED Before 4/1/2018**](#deployment-to-be-deployed-before-412018)
+        - [Preliminary Screenshot of this Project - *Production build; preliminary styling; not final UI/UX*](#preliminary-screenshot-of-this-project---production-build-preliminary-styling-not-final-uiux)
+        - [Tech Stack](#tech-stack)
+        - [MVC File Structure](#mvc-file-structure)
+        - [How to Implement](#how-to-implement)
+            - [License](#license)
+                - [*March 2018*](#march-2018)
+
+<!-- /TOC -->
+
 ### How to Use
 
->You'll figure it out
+>Create an account, log in, create a post, owners can edit or delete their own posts. All logged in users can read all posts.
 
-### Deployment **TO BE DEPLOYED**
+### Deployment **TO BE DEPLOYED Before 4/1/2018**
 
-Follow this link to the [Rant and Rave](https://rant-and-rave.herokuapp.com/) on the Web
+Follow this link to the [Rant and Rave](https://rant-and-rave.herokuapp.com/) on the Web after 4/1/2018
 
-### Screenshot of this Project
+### Preliminary Screenshot of this Project - *Production build; preliminary styling; not final UI/UX*
 
-![Rant and Rave](https://raw.github.com/captnwalker/rant-and-rave/master/public/img/coming-soon1.jpg "Rant and Rave")
+![Rant and Rave](https://raw.github.com/captnwalker/rant-and-rave/master/public/img/GIF.gif "Rant and Rave")
 
 ### Tech Stack
 

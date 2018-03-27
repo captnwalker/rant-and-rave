@@ -13,3 +13,14 @@ body {
 font-family: 'Cairo', sans-serif;  **
 font-family: 'Varela Round', sans-serif; ****
 */
+
+#author {
+    font-style: italic;
+    /* color: red !important; */
+}
+
+#rant {
+    font-size: 1.2em;
+    font-weight: 600;
+    color: rgb(107, 106, 106);
+}
