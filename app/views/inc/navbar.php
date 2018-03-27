@@ -17,13 +17,23 @@
           </li>
         </ul>
 
+        <!-- Register/Login links -->
         <ul class="navbar-nav ml-auto">
+          <?php if(isset($_SESSION['user_id'])) : ?>
+          <!-- Logout nav link visible of user logged in -->
           <li class="nav-item">
-            <a class="nav-link" href="<?php echo URLROOT; ?>/users/register">Register</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="<?php echo URLROOT; ?>/users/login">Login</a>
-          </li>
+              <a class="nav-link" href="<?php echo URLROOT; ?>/users/logout">Logout</a>
+            </li>
+          <!-- Nav links hidden if user logged in -->
+          <?php else : ?>
+            <li class="nav-item">
+              <a class="nav-link" href="<?php echo URLROOT; ?>/users/register">Register</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="<?php echo URLROOT; ?>/users/login">Login</a>
+            </li>
+          <?php endif; ?>
+
         </ul>
       </div>
     </div>
