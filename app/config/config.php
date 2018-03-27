@@ -1,9 +1,9 @@
 <?php
     // DB Params
-    define('DB_HOST', 'ffn96u87j5ogvehy.cbetxkdyhwsb.us-east-1.rds.amazonaws.com');
-    define('DB_USER', 'q80hpl1bduib314q');
-    define('DB_PASS', 'jvi87kpmzzlczjwx');
-    define('DB_NAME', 'rant');
+    define('DB_HOST', 'thzz882efnak0xod.cbetxkdyhwsb.us-east-1.rds.amazonaws.com');
+    define('DB_USER', 'iug6r5w07yutpave');
+    define('DB_PASS', 'oq18moh4lzr69dg0');
+    define('DB_NAME', 'khwwvxe7d2tt7l06');
 
     // App Root
     define('APPROOT', dirname(dirname(__FILE__)));
