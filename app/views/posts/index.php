@@ -18,7 +18,7 @@
                 written by <?php echo $post->name; ?> on <?php echo $post->postCreated; ?>
             </div>
             <p class="card-text"><?php echo $post->body; ?></p>
-            <a href="<?php echo URLROOT; ?>/posts/show<?php echo $post->postId; ?>" class="btn btn-secondary">More</a>
+            <a href="<?php echo URLROOT; ?>/posts/show<?php echo $post->postId; ?>" class="btn btn-info">More</a>
         </div>
     <?php endforeach; ?>
 

@@ -4,7 +4,13 @@
 
     }
 
+    // Redirect HOME link to Posts of user is logged in
     public function index(){
+      if(isLoggedIn()){
+        redirect('posts');
+      }
+
+
       $data = [
         'title' => 'Rant and Rave',
         'description' => 'Shout into the Digital Abyss'
