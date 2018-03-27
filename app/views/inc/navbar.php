@@ -22,6 +22,9 @@
           <?php if(isset($_SESSION['user_id'])) : ?>
           <!-- Logout nav link visible of user logged in -->
           <li class="nav-item">
+          <a class="nav-link active" href="#">Welcome <?php echo $_SESSION['user_name']; ?></a>
+            </li>
+          <li class="nav-item">
               <a class="nav-link" href="<?php echo URLROOT; ?>/users/logout">Logout</a>
             </li>
           <!-- Nav links hidden if user logged in -->

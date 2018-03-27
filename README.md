@@ -1,4 +1,4 @@
-# **IN DEVELOPMENT** rant-and-rave **IN DEVELOPMENT**
+# **IN PRODUCTION** Rant and Rave 
 
 ## Purpose of this App
 
@@ -23,7 +23,7 @@ Follow this link to the [Rant and Rave](https://rant-and-rave.herokuapp.com/) on
 * PHP
 * PDO
 * MVC
-* ORM
+* MySql
 * HTML5
 * CSS3
 * BootStrap 4.0
