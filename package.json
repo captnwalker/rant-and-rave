@@ -1,0 +1,25 @@
+{
+  "name": "rant-and-rave",
+  "version": "1.0.0",
+  "description": "social media app",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/captnwalker/rant-and-rave.git"
+  },
+  "keywords": [
+    "social",
+    "media",
+    "php",
+    "mvc"
+  ],
+  "author": "Steve Walker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/captnwalker/rant-and-rave/issues"
+  },
+  "homepage": "https://github.com/captnwalker/rant-and-rave#readme"
+}
