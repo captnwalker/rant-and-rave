@@ -1,0 +1,15 @@
+{
+    "name": "admin/rant-and-rave",
+    "description": "social media app",
+    "type": "project",
+    "require": {
+        "monolog/monolog": "^1.23"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Steve Walker",
+            "email": "captnwalker@gmail.com"
+        }
+    ]
+}
