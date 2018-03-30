@@ -1,18 +1,18 @@
-# **IN PRODUCTION** Rant and Rave
+# **IN PRODUCTION** - Rant and Rave
 
 ## Purpose of this App
 
->*Scream into the digital abyss. **"Rant and Rave"** is an exercise in building a MVC framework from scratch posing as a Social Media platform. Similar to REACT, Angular or Laravel, this is built on a Custom MVC Framework written in PHP. This framework does include PDO to help prevent SQL injection. Please refer to the docs below on how to implement.
+>*Scream into the digital abyss.* **"Rant and Rave"** is an exercise in building a MVC framework from scratch posing as a Social Media platform. Similar to REACT, Angular or Laravel, this is built on a Custom MVC Framework written in PHP. This framework does include PDO to help prevent SQL injection. Please refer to the docs below on how to implement.
 
 ### Table of Contents
 
 <!-- TOC -->
 
-- [**IN PRODUCTION** Rant and Rave](#in-production-rant-and-rave)
+- [**IN PRODUCTION** - Rant and Rave](#in-production---rant-and-rave)
     - [Purpose of this App](#purpose-of-this-app)
         - [Table of Contents](#table-of-contents)
         - [How to Use](#how-to-use)
-        - [Deployment / **TO BE DEPLOYED Before 4/1/2018**](#deployment--to-be-deployed-before-412018)
+        - [Deployment / **TO BE DEPLOYED Before 4/10/2018**](#deployment--to-be-deployed-before-4102018)
         - [Preliminary Screenshot of this Project - *Production build / preliminary styling / not final UI/UX*](#preliminary-screenshot-of-this-project---production-build--preliminary-styling--not-final-uiux)
         - [Tech Stack](#tech-stack)
         - [MVC File Structure](#mvc-file-structure)
@@ -26,7 +26,7 @@
 
 As a simple social network app users create an account, log in, create a post. Owners can edit or delete their own posts. All logged in users can view (read-only) all users posts.
 
-### Deployment / **TO BE DEPLOYED Before 4/1/2018**
+### Deployment / **TO BE DEPLOYED Before 4/10/2018**
 
 Follow this link to the [Rant and Rave](https://rant-and-rave.herokuapp.com/) on the Web after 4/1/2018
 
@@ -36,14 +36,11 @@ Follow this link to the [Rant and Rave](https://rant-and-rave.herokuapp.com/) on
 
 ### Tech Stack
 
-* PHP
-* PDO
-* MVC
-* MySql
-* HTML5
-* CSS3
-* BootStrap 4.0
-* Google Fonts
+| Core | Styling | Database |
+| ---- | ------- | ------- |
+| PHP | CSS3 | MySql |
+| PDO | BootStrap 4.0 |   |
+| HTML5| Google Fonts |   |   |
 
 ### MVC File Structure
 
@@ -53,27 +50,46 @@ app
 │   └── connection.php
 │ 
 ├── controllers
-│   └── controller.php
+│   │── Pages.php
+│   ├── Posts.php
+│   └── Users.php
 │
 ├── models
-│   └── models.php (*example included*)
+│   └── Post.php
+│   └── User.php
 │ 
 ├── libraries
-│   ├── controller.php
-│   ├── core.php
-│   └── database.php
+│   ├── Controller.php
+│   ├── Core.php
+│   └── Database.php
 │ 
-├── package.json (*if dependencies are desired*)
+├── composer.json (*if dependencies are desired*)
 │
 ├── helpers
+│   ├── session_helper.php
+│   └── url_helper.php
+│
+├── .htaccess
+│
+├── bootstrap.php
 │
 ├── views
 │   ├── inc
 │   │   │── header.php
-│   │   └── footer.php
-│   └── pages
-│       │── about.php
-│       └── index.php
+│   │   │── footer.php
+│   │   └── navbar.php
+│   │── pages
+│   │   │── about.php
+│   │   └── index.php
+│   ├── posts
+│   │   │── add.php
+│   │   │── edit.php
+│   │   │── index.php
+│   │   └── show.php
+│   └── users
+│       │── login.php
+│       └── register.php
+│
 public
 ├── js
 │   └── main.js
@@ -81,10 +97,15 @@ public
 │   └── styles.css
 ├── img
 │   └── images.png
+│
 ├── index.php
+│
 ├── .htaccess
 │
 .htaccess
+│
+schema
+   └── schema.sql
 
 ```
 
