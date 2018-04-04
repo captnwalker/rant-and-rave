@@ -54,6 +54,23 @@ app
 │   ├── Posts.php
 │   └── Users.php
 │
+├── views
+│   ├── inc
+│   │   │── header.php
+│   │   │── footer.php
+│   │   └── navbar.php
+│   │── pages
+│   │   │── about.php
+│   │   └── index.php
+│   ├── posts
+│   │   │── add.php
+│   │   │── edit.php
+│   │   │── index.php
+│   │   └── show.php
+│   └── users
+│       │── login.php
+│       └── register.php
+│
 ├── models
 │   └── Post.php
 │   └── User.php
@@ -72,23 +89,6 @@ app
 ├── .htaccess
 │
 ├── bootstrap.php
-│
-├── views
-│   ├── inc
-│   │   │── header.php
-│   │   │── footer.php
-│   │   └── navbar.php
-│   │── pages
-│   │   │── about.php
-│   │   └── index.php
-│   ├── posts
-│   │   │── add.php
-│   │   │── edit.php
-│   │   │── index.php
-│   │   └── show.php
-│   └── users
-│       │── login.php
-│       └── register.php
 │
 public
 ├── js
