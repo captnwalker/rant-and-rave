@@ -1,4 +1,4 @@
-# **IN PRODUCTION** -1-4-6  Rant and Rave
+# **IN PRODUCTION** - Rant and Rave
 
 ## Purpose of this App
 
@@ -8,7 +8,7 @@
 
 <!-- TOC -->
 
-- [**IN PRODUCTION** -1-4-6  Rant and Rave](#in-production--1-4-6--rant-and-rave)
+- [**IN PRODUCTION** - Rant and Rave](#in-production---rant-and-rave)
     - [Purpose of this App](#purpose-of-this-app)
         - [Table of Contents](#table-of-contents)
         - [How to Use](#how-to-use)
@@ -39,8 +39,8 @@ Follow this link to the [Rant and Rave](https://rant-and-rave.herokuapp.com/) on
 | Core | Styling | Database |
 | ---- | ------- | ------- |
 | PHP | CSS3 | MySql |
-| PDO | BootStrap 4.0 |   |
-| HTML5| Google Fonts |   |   |
+| HTML5 | BootStrap 4.0 | PDO - Database Access Abstraction Layer |
+| | Google Fonts |   |   |
 
 ### MVC File Structure
 
