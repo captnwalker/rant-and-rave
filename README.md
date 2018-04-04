@@ -12,7 +12,7 @@
     - [Purpose of this App](#purpose-of-this-app)
         - [Table of Contents](#table-of-contents)
         - [How to Use](#how-to-use)
-        - [Deployment / **TO BE DEPLOYED Before 4/10/2018**](#deployment--to-be-deployed-before-4102018)
+        - [Deployment / **TO BE DEPLOYED ON 4/10/2018**](#deployment--to-be-deployed-on-4102018)
         - [Preliminary Screenshot of this Project - *Production build / preliminary styling / not final UI/UX*](#preliminary-screenshot-of-this-project---production-build--preliminary-styling--not-final-uiux)
         - [Tech Stack](#tech-stack)
         - [MVC File Structure](#mvc-file-structure)
@@ -26,9 +26,9 @@
 
 As a simple social network app users create an account, log in, create a post. Owners can edit or delete their own posts. All logged in users can view (read-only) all users posts.
 
-### Deployment / **TO BE DEPLOYED Before 4/10/2018**
+### Deployment / **TO BE DEPLOYED ON 4/10/2018**
 
-Follow this link to the [Rant and Rave](https://rant-and-rave.herokuapp.com/) on the Web after 4/1/2018
+Follow this link to the [Rant and Rave](https://rant-and-rave.herokuapp.com/) on the Web on 4/10/2018
 
 ### Preliminary Screenshot of this Project - *Production build / preliminary styling / not final UI/UX*
 
@@ -39,7 +39,7 @@ Follow this link to the [Rant and Rave](https://rant-and-rave.herokuapp.com/) on
 | Core | Styling | Database |
 | ---- | ------- | ------- |
 | PHP | CSS3 | MySql |
-| HTML5 | BootStrap 4.0 | PDO - Database Access Abstraction Layer |
+|  | BootStrap 4.0 | PDO - Database Access Abstraction Layer |
 | | Google Fonts |   |   |
 
 ### MVC File Structure
