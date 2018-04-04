@@ -1,0 +1,11 @@
+{
+    "name": "admin/rant-and-rave",
+    "description": "simple social media app",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Steve Walker",
+            "email": "captnwalker@gmail.com"
+        }
+    ]
+}
