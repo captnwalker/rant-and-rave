@@ -62,12 +62,12 @@ app
 │   ├── Controller.php
 │   ├── Core.php
 │   └── Database.php
-│ 
-├── composer.json (*if dependencies are desired*)
 │
 ├── helpers
 │   ├── session_helper.php
 │   └── url_helper.php
+│
+├── composer.json
 │
 ├── .htaccess
 │
@@ -105,7 +105,9 @@ public
 .htaccess
 │
 schema
-   └── schema.sql
+│  └── schema.sql
+│
+vendor (Generated content)
 
 ```
 
