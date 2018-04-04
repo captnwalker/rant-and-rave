@@ -10,6 +10,6 @@
     // URL Root
     define('URLROOT', 'https://rant-and-rave.herokuapp.com/');
     // Site name
-    define('SITENAME', 'Rant-and-Rave');
+    define('SITENAME', 'rant-and-rave');
     // App Verison
     define('APPVERSION', '1.0.0');
