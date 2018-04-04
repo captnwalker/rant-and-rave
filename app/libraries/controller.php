@@ -3,6 +3,9 @@
     * Base Controller
     * Loads models and views
     */
+
+    require('../vendor/autoload.php');
+    
     class Controller {
         // Load the model
         public function model($model){

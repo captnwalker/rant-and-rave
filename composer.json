@@ -7,5 +7,8 @@
             "name": "Steve Walker",
             "email": "captnwalker@gmail.com"
         }
-    ]
+    ],
+    "require-dev": {
+        "heroku/heroku-buildpack-php": "*"
+    }
 }
