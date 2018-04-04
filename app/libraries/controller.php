@@ -4,7 +4,7 @@
     * Loads models and views
     */
 
-    //require('../vendor/autoload.php');
+    require('../vendor/autoload.php');
     
     class Controller {
         // Load the model
