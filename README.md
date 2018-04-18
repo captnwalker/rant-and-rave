@@ -9,16 +9,16 @@
 <!-- TOC -->
 
 - [**IN PRODUCTION** - Rant and Rave](#in-production---rant-and-rave)
-    - [Purpose of this App](#purpose-of-this-app)
-        - [Table of Contents](#table-of-contents)
-        - [How to Use](#how-to-use)
-        - [Deployment / **TO BE DEPLOYED ON 4/10/2018**](#deployment--to-be-deployed-on-4102018)
-        - [Preliminary Screenshot of this Project - *Production build / preliminary styling / not final UI/UX*](#preliminary-screenshot-of-this-project---production-build--preliminary-styling--not-final-uiux)
-        - [Tech Stack](#tech-stack)
-        - [MVC File Structure](#mvc-file-structure)
-        - [How to Implement](#how-to-implement)
-            - [License](#license)
-                - [*April 2018*](#april-2018)
+  - [Purpose of this App](#purpose-of-this-app)
+    - [Table of Contents](#table-of-contents)
+    - [How to Use](#how-to-use)
+    - [Deployment / **TO BE DEPLOYED ON 5/2018**](#deployment--to-be-deployed-on-52018)
+    - [Preliminary Screenshot of this Project - *Production build / preliminary styling / not final UI/UX*](#preliminary-screenshot-of-this-project---production-build--preliminary-styling--not-final-uiux)
+    - [Tech Stack](#tech-stack)
+    - [MVC File Structure](#mvc-file-structure)
+    - [How to Implement](#how-to-implement)
+      - [License](#license)
+        - [*April 2018*](#april-2018)
 
 <!-- /TOC -->
 
@@ -26,9 +26,9 @@
 
 As a simple social network app users create an account, log in, create a post. Owners can edit or delete their own posts. All logged in users can view (read-only) all users posts.
 
-### Deployment / **TO BE DEPLOYED ON 4/10/2018**
+### Deployment / **TO BE DEPLOYED ON 5/2018**
 
-Follow this link to the [Rant and Rave](https://rant-and-rave.herokuapp.com/) on the Web on 4/10/2018
+Follow this link to the [Rant and Rave](https://rant-and-rave.herokuapp.com/) on the Web on 5/2018
 
 ### Preliminary Screenshot of this Project - *Production build / preliminary styling / not final UI/UX*
 
